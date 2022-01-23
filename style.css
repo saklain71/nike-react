@@ -23,6 +23,16 @@
     box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
 
 }
+.last-section{
+    margin-top: 100px;
+    margin-bottom: 150px;
+
+}
+.last-section-box{
+    width: 489px;
+    height: 130px;
+    margin-top: 10px;
+}
 /* .images{
     width: 311px;
     height: 311px;
